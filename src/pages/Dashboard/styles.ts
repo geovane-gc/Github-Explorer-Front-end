@@ -62,7 +62,7 @@ export const Repositories = styled.div`
         transition: transform 0.2s;
 
         &:hover {
-           transform: translateX(10px); 
+           transform: translateX(10px);
         }
 
         /* Apenas após a primeira tag a */
